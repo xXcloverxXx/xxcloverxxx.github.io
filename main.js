@@ -1,4 +1,4 @@
-async function getResponse() {
+async function getallFaq() {
   const content = await (await fetch('https://xxcloverxxx.github.io/info.json')).json();
   const list = document.querySelector('.lestCards');
   list.innerHTML = '';
@@ -27,20 +27,66 @@ async function getResponse() {
 }
 
 
-async function getProfession() {
-  const content = await (await fetch('https://codenameyau.github.io/assets/data/gallery.json')).json();
+async function getSpecialties() {
+  const content = await (await fetch('https://xxcloverxxx.github.io/specialties.json')).json();
   const list = document.querySelector('.rightCards');
   list.innerHTML = '';
+  const textskAndVi = {
+    0: "Описание 0",
+    1: "Описание 1",
+    2: "Описание 2",
+    3: "Описание 3",
+    4: "Описание 4",
+    5: "Описание 5",
+    6: "Описание 6",
+    7: "Описание 7",
+    8: "Описание 8",
+    9: "Описание 9",
+    10: "Описание 10",
+    11: "Описание 11"
+  };
+
+  const textsege = {
+    0: "ЕГЭ 0",
+    1: "ЕГЭ 1",
+    2: "ЕГЭ 2",
+    3: "ЕГЭ 3",
+    4: "ЕГЭ 4",
+    5: "ЕГЭ 5",
+    6: "ЕГЭ 6",
+    7: "ЕГЭ 7",
+    8: "ЕГЭ 8",
+    9: "ЕГЭ 9",
+    10: "ЕГЭ 10",
+    11: "Нет"
+  };
+
   let UID = 0;
-  for (let item of content.gallery) {
+  for (let item of content.allSpecialty) {
+
+    let kAndViText = '';
+
+    if (item.kAndVi) {
+      item.kAndVi.forEach(id => {
+        kAndViText += `<p>${textskAndVi[id] ?? 'Нет данных'}</p>`;
+      });
+    }
+
+    let egeText = '';
+
+    if (item.ege) {
+      item.ege.forEach(id => {
+        egeText += `<p>${textsege[id] ?? 'Нет данных'}</p>`;
+      });
+    }
 
     list.innerHTML += `
         <div class="col-md-4">
           <div class="card">
             <div class="card-body">
-              <small> ${item.title} Факультет технических наук</small><br/>
-              <small>Бакалавриат  ${item.title}</small>
-              <h5>${UID}${UID}.${UID}${UID}.${UID}${UID} Прикладная механика (Компьютерное проектирование и дизайн)  ${item.title}</h5>
+              <small>${item.faculty}</small><br/>
+              <small>${item.level}</small>
+              <h5>${item.specialty}</h5>
             </div>
 
             <!-- Навигация по вкладкам -->
@@ -56,15 +102,29 @@ async function getProfession() {
 
             <div class="tab-content" id="nav-tabContent-${UID}">
               <div class="tab-pane fade show active" id="nav-home-${UID}" role="tabpanel" aria-labelledby="nav-home-tab-${UID}" tabindex="0">
-                <p>Количество бюджетных мест: <span class="bold">${UID}${UID}</span></p>
-                <p>Количество контрактных мест:  <span class="bold">NN</span></p>
-                <p>Стоимость обучения:  <span class="bold">NN</span></p>
-                <p>Срок обучения:  <span class="bold">NN</span></p>
+                <p>Количество бюджетных мест: <span class="bold">${item.oBudget}</span></p>
+                <p>Количество контрактных мест:  <span class="bold">${item.oContract}</span></p>
+                <p>Стоимость обучения:  <span class="bold">${item.oYear}</span></p>
+                <p>Срок обучения:  <span class="bold">${item.oPrice}</span></p>
               </div>
-              <div class="tab-pane fade" id="nav-profile-${UID}" role="tabpanel" aria-labelledby="nav-profile-tab-${UID}" tabindex="0">.. ${item.link}.</div>
-              <div class="tab-pane fade" id="nav-contact-${UID}" role="tabpanel" aria-labelledby="nav-contact-tab-${UID}" tabindex="0">..${item.link}.</div>
-              <div class="tab-pane fade" id="nav-vi-${UID}" role="tabpanel" aria-labelledby="nav-vi-tab-${UID}" tabindex="0"><p> ${item.link}Обязательные предметы:</p><p>*Русский язык - консультация 20.07 в 13:00, вступительное испытание 21.07 в 8:00</p><p>Математика - консультация 21.07 в 16:00, вступительное испытание 22.07 в 8:00</p><p><br></p><p>Предмет на выбор:</p><p>Физика - консультация 23.07 в 16:30, вступительное испытание 24.07 в 8:00</p><p>Информатика - консультация 23.07 в 18:00, вступительное испытание 24.07 в 14:00</p><p>Химия - консультация 24.07 в 17:15, вступительное испытание 25.07 в 11:00</p></div>
-              <div class="tab-pane fade" id="nav-ege-${UID}" role="tabpanel" aria-labelledby="nav-ege-tab-${UID}" tabindex="0">..${item.link}.Егэ</div>
+              <div class="tab-pane fade" id="nav-profile-${UID}" role="tabpanel" aria-labelledby="nav-profile-tab-${UID}" tabindex="0">
+                <p>Количество бюджетных мест: <span class="bold">${item.ozBudget}</span></p>
+                <p>Количество контрактных мест:  <span class="bold">${item.ozContract}</span></p>
+                <p>Стоимость обучения:  <span class="bold">${item.ozYear}</span></p>
+                <p>Срок обучения:  <span class="bold">${item.ozPrice}</span></p>
+              </div>
+              <div class="tab-pane fade" id="nav-contact-${UID}" role="tabpanel" aria-labelledby="nav-contact-tab-${UID}" tabindex="0">
+                <p>Количество бюджетных мест: <span class="bold">${item.zBudget}</span></p>
+                <p>Количество контрактных мест:  <span class="bold">${item.zContract}</span></p>
+                <p>Стоимость обучения:  <span class="bold">${item.zYear}</span></p>
+                <p>Срок обучения:  <span class="bold">${item.zPrice}</span></p>
+              </div>
+              <div class="tab-pane fade" id="nav-vi-${UID}" role="tabpanel" aria-labelledby="nav-vi-tab-${UID}" tabindex="0">
+                ${kAndViText}
+              </div>
+              <div class="tab-pane fade" id="nav-ege-${UID}" role="tabpanel" aria-labelledby="nav-ege-tab-${UID}" tabindex="0">
+                ${egeText}
+              </div>
             </div>
           </div>
         </div>
@@ -75,5 +135,5 @@ async function getProfession() {
 }
 
 
-getResponse();
-getProfession();
+getallFaq();
+getSpecialties();
