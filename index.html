@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSV Viewer</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <script src="main.js"></script>
+
+
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+  <style>
+    body, html { height: 100%; margin: 0; }
+    #overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.7);
+      z-index: 9999;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    #drop-zone {
+      border: 3px dashed #fff;
+      padding: 40px;
+      text-align: center;
+      color: #fff;
+      background: #333;
+    }
+    .card { margin-bottom: 1rem; }
+    .copy-btn {
+      position: absolute;
+      top: 0.5rem;
+      right: 1rem;
+      border: none;
+      background: none;
+      color: #888;
+      cursor: pointer;
+    }
+    .accordion-body { position: relative; }
+    .filter-toolbar {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: nowrap; /* В одну линию */
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+    .filter-toolbar select.form-select {
+      min-width: 150px;
+      max-width: 150px;
+    }
+    .filter-toolbar .btn-group {
+      flex-shrink: 0;
+    }
+    /* Чтобы поиск был во всю ширину и ниже фильтров */
+    #rightSearch {
+      width: 100%;
+      margin-bottom: 1rem;
+    }
+    .card-header button {
+      text-decoration: none !important;
+      color: inherit !important;
+    }
+    p {
+      margin-bottom: 0px;
+    }
+    .card .nav-tabs .nav-link:first-child {
+      border-left: 0;
+    }
+
+    .tab-content{
+      padding: 15px 20px 20px 20px;
+    }
+
+
+/* Стили для подсветки поиска */
+
+.search-highlight {
+  background-color: rgba(13, 202, 240, 0.3) !important;
+  padding: 0 2px !important;
+  border-radius: 2px !important;
+  font-weight: 500 !important;
+  color: inherit !important;
+}
+
+/* Стили для контейнера поиска */
+#leftSearchContainer {
+  position: sticky;
+  top: 0;
+  background-color: inherit;
+  z-index: 100;
+  padding: 10px 0;
+}
+
+#searchResultsCount {
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+/* Анимация появления/исчезновения карточек */
+.card {
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.card[style*="display: none"] {
+  opacity: 0;
+  transform: scale(0.98);
+}
+
+
+.form-select{
+  width: 100%;
+  min-width: 200px !important;
+  max-width: 500px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+
+  </style>
+
+</head>
+<body>
+
+
+<div class="container-fluid" id="main-content">
+  <div class="row">
+
+    <div class="col-md-4 p-3 border-end lestCards" id="left-panel" >
+
+    </div>
+
+    <div class="col-md-8 p-3" id="right-panel">
+      <div class="filter-toolbar mb-2">
+        <select class="form-select" id="levelFilter">
+          <option value="all">Все уровни</option>
+        </select>
+        <select class="form-select" id="facultyFilter">
+          <option value="all">Все факультеты</option>
+        </select>
+        <div class="btn-group" role="group">
+          <button class="btn btn-outline-secondary" id="sortAsc"><i class="fa-solid fa-arrow-up-a-z"></i></button>
+          <button class="btn btn-outline-secondary" id="sortDesc"><i class="fa-solid fa-arrow-down-z-a"></i></button>
+        </div>
+      </div>
+      <input type="text" class="form-control" placeholder="Поиск направлений подготовки..." id="rightSearch" />
+      <div class="row rightCards" id="rightCards">
+        
+
+      
+
+
+
+      </div>
+
+
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="bootstrap.bundle.min.js"></script>
+
+
+<!--Правый фильтр-->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Ждем загрузки данных и рендеринга карточек
+  const observer = new MutationObserver(function(mutations) {
+    mutations.forEach(function(mutation) {
+      if (mutation.addedNodes.length > 0) {
+        initializeFilters();
+      }
+    });
+  });
+  
+  const rightCards = document.getElementById('rightCards');
+  if (rightCards) {
+    observer.observe(rightCards, { childList: true, subtree: true });
+  }
+  
+  // Также запускаем фильтры после полной загрузки страницы
+  setTimeout(initializeFilters, 1000);
+  
+  function initializeFilters() {
+    const cards = document.querySelectorAll('.rightCards .card');
+    if (cards.length === 0) return;
+    
+    // Получаем элементы фильтров
+    const levelFilter = document.getElementById('levelFilter');
+    const facultyFilter = document.getElementById('facultyFilter');
+    const sortAsc = document.getElementById('sortAsc');
+    const sortDesc = document.getElementById('sortDesc');
+    const searchInput = document.getElementById('rightSearch');
+    
+    if (!levelFilter || !facultyFilter) return;
+    
+    // Сохраняем оригинальные опции, если они еще не сохранены
+    if (!levelFilter.dataset.initialized) {
+      // Заполняем фильтр уровней
+      const levels = new Set();
+      const faculties = new Set();
+      
+      cards.forEach(card => {
+        const smallTags = card.querySelectorAll('small');
+        if (smallTags.length >= 2) {
+          levels.add(smallTags[1].textContent.trim());
+          faculties.add(smallTags[0].textContent.trim());
+        }
+      });
+      
+      // Очищаем и заполняем уровень
+      levelFilter.innerHTML = '<option value="all">Все уровни</option>';
+      levels.forEach(level => {
+        levelFilter.innerHTML += `<option value="${level}">${level}</option>`;
+      });
+      
+      // Очищаем и заполняем факультеты
+      facultyFilter.innerHTML = '<option value="all">Все факультеты</option>';
+      faculties.forEach(faculty => {
+        facultyFilter.innerHTML += `<option value="${faculty}">${faculty}</option>`;
+      });
+      
+      levelFilter.dataset.initialized = 'true';
+    }
+    
+    // Функция фильтрации
+    function applyFilters() {
+      const selectedLevel = levelFilter.value;
+      const selectedFaculty = facultyFilter.value;
+      const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
+      
+      cards.forEach(card => {
+        const smallTags = card.querySelectorAll('small');
+        const cardLevel = smallTags.length >= 2 ? smallTags[1].textContent.trim() : '';
+        const cardFaculty = smallTags.length >= 1 ? smallTags[0].textContent.trim() : '';
+        const cardTitle = card.querySelector('h5') ? card.querySelector('h5').textContent.toLowerCase() : '';
+        
+        const levelMatch = selectedLevel === 'all' || cardLevel === selectedLevel;
+        const facultyMatch = selectedFaculty === 'all' || cardFaculty === selectedFaculty;
+        const searchMatch = !searchTerm || cardTitle.includes(searchTerm);
+        
+        card.closest('.col-md-4').style.display = (levelMatch && facultyMatch && searchMatch) ? '' : 'none';
+      });
+    }
+    
+    // Функция сортировки
+    function sortCards(direction) {
+      const container = document.querySelector('.rightCards');
+      const cardColumns = Array.from(container.querySelectorAll('.col-md-4'));
+      
+      cardColumns.sort((a, b) => {
+        const titleA = a.querySelector('h5') ? a.querySelector('h5').textContent.trim() : '';
+        const titleB = b.querySelector('h5') ? b.querySelector('h5').textContent.trim() : '';
+        
+        if (direction === 'asc') {
+          return titleA.localeCompare(titleB, 'ru', { numeric: true });
+        } else {
+          return titleB.localeCompare(titleA, 'ru', { numeric: true });
+        }
+      });
+      
+      cardColumns.forEach(col => container.appendChild(col));
+    }
+    
+    // Добавляем обработчики событий
+    levelFilter.addEventListener('change', applyFilters);
+
+  facultyFilter.addEventListener('change', applyFilters);
+    
+    if (sortAsc) {
+      sortAsc.addEventListener('click', function() {
+        sortCards('asc');
+      });
+    }
+    
+    if (sortDesc) {
+      sortDesc.addEventListener('click', function() {
+        sortCards('desc');
+      });
+    }
+    
+    if (searchInput) {
+      searchInput.addEventListener('input', applyFilters);
+    }
+    
+    // Применяем фильтры сразу
+    applyFilters();
+  }
+});
+</script>
+
+
+
+
+<!--Левый фильтр-->
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Ждем загрузки данных
+  const leftPanel = document.getElementById('left-panel');
+  if (!leftPanel) return;
+  
+  // Наблюдатель за изменениями в левой панели
+  const observer = new MutationObserver(function(mutations) {
+    for (let mutation of mutations) {
+      if (mutation.addedNodes.length > 0) {
+        // Проверяем, есть ли уже карточки
+        const cards = leftPanel.querySelectorAll('.card');
+        if (cards.length > 0 && !document.getElementById('leftSearchContainer')) {
+          createSearchInterface();
+        }
+      }
+    }
+  });
+  
+  observer.observe(leftPanel, { childList: true, subtree: true });
+  
+  // Запасной вариант - пробуем инициализировать через таймаут
+  setTimeout(function() {
+    const cards = leftPanel.querySelectorAll('.card');
+    if (cards.length > 0 && !document.getElementById('leftSearchContainer')) {
+      createSearchInterface();
+    }
+  }, 500);
+  
+  setTimeout(function() {
+    const cards = leftPanel.querySelectorAll('.card');
+    if (cards.length > 0 && !document.getElementById('leftSearchContainer')) {
+      createSearchInterface();
+    }
+  }, 1500);
+  
+  function createSearchInterface() {
+    // Проверяем, не создан ли уже интерфейс
+    if (document.getElementById('leftSearchContainer')) return;
+    
+    const leftPanel = document.getElementById('left-panel');
+    const cards = leftPanel.querySelectorAll('.card');
+    
+    if (cards.length === 0) return;
+    
+    console.log('Создаем поисковый интерфейс. Найдено карточек:', cards.length);
+    
+    // Создаем контейнер поиска
+    const searchContainer = document.createElement('div');
+    searchContainer.id = 'leftSearchContainer';
+    searchContainer.className = 'mb-3';
+    searchContainer.innerHTML = `
+      <div class="input-group">
+        <span class="input-group-text">
+          <i class="fa-solid fa-search"></i>
+        </span>
+        <input type="text" class="form-control" placeholder="Поиск по заголовкам и содержимому..." id="leftSearch">
+        <button class="btn btn-outline-danger" type="button" id="clearLeftSearch" title="Очистить поиск">
+          <i class="fa-solid fa-times"></i>
+        </button>
+      </div>
+      <div class="mt-1">
+        <small class="text-muted" id="searchResultsCount"></small>
+      </div>
+    `;
+    
+    // Вставляем в начало левой панели
+    if (leftPanel.firstChild) {
+      leftPanel.insertBefore(searchContainer, leftPanel.firstChild);
+    } else {
+      leftPanel.appendChild(searchContainer);
+    }
+    
+    // Получаем элементы
+    const searchInput = document.getElementById('leftSearch');
+    const clearButton = document.getElementById('clearLeftSearch');
+    const resultsCount = document.getElementById('searchResultsCount');
+    
+    // Функция для удаления старой подсветки
+    function removeAllHighlights() {
+      const highlights = leftPanel.querySelectorAll('mark.search-highlight');
+      highlights.forEach(mark => {
+        const parent = mark.parentNode;
+        parent.replaceChild(document.createTextNode(mark.textContent), mark);
+        parent.normalize();
+      });
+    }
+    
+    // Функция для подсветки текста в элементе
+    function highlightInElement(element, searchText) {
+      if (!element || !searchText) return;
+      
+      const treeWalker = document.createTreeWalker(
+        element,
+        NodeFilter.SHOW_TEXT,
+        {
+          acceptNode: function(node) {
+            // Пропускаем текстовые узлы внутри кнопок копирования и скриптов
+            if (node.parentNode.classList.contains('copy-btn') ||
+                node.parentNode.tagName === 'SCRIPT' ||
+                node.parentNode.tagName === 'STYLE') {
+              return NodeFilter.FILTER_REJECT;
+            }
+            return NodeFilter.FILTER_ACCEPT;
+          }
+        }
+      );
+      
+      const textNodes = [];
+      while (treeWalker.nextNode()) {
+        textNodes.push(treeWalker.currentNode);
+      }
+textNodes.forEach(node => {
+        const text = node.textContent;
+        const regex = new RegExp(`(${searchText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        
+        if (regex.test(text)) {
+          const fragment = document.createDocumentFragment();
+          let lastIndex = 0;
+          let match;
+          
+          // Сбрасываем lastIndex перед использованием
+          const newRegex = new RegExp(`(${searchText.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+          
+          while ((match = newRegex.exec(text)) !== null) {
+            // Добавляем текст до совпадения
+            if (match.index > lastIndex) {
+              fragment.appendChild(document.createTextNode(text.substring(lastIndex, match.index)));
+            }
+            
+            // Добавляем подсвеченное совпадение
+            const mark = document.createElement('mark');
+            mark.className = 'search-highlight';
+            mark.textContent = match[0];
+            fragment.appendChild(mark);
+            
+            lastIndex = match.index + match[0].length;
+          }
+          
+          // Добавляем оставшийся текст
+          if (lastIndex < text.length) {
+            fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+          }
+          
+          node.parentNode.replaceChild(fragment, node);
+        }
+      });
+    }
+    
+    // Основная функция поиска
+    function performLiveSearch() {
+      const searchText = searchInput.value.trim();
+      
+      // Удаляем старую подсветку
+      removeAllHighlights();
+      
+      const allCards = leftPanel.querySelectorAll('.card');
+      let visibleCount = 0;
+      
+      allCards.forEach(card => {
+        const button = card.querySelector('button[data-bs-toggle="collapse"]');
+        const content = card.querySelector('.content');
+        
+        if (!button) return;
+        
+        const headerText = button.textContent || '';
+        const contentText = content ? content.textContent : '';
+        
+        if (!searchText) {
+          // Если поиск пустой - показываем все
+          card.style.display = '';
+          visibleCount++;
+        } else {
+          // Проверяем наличие текста в заголовке или содержимом
+          const headerMatch = headerText.toLowerCase().includes(searchText.toLowerCase());
+          const contentMatch = contentText.toLowerCase().includes(searchText.toLowerCase());
+          
+          if (headerMatch || contentMatch) {
+            card.style.display = '';
+            visibleCount++;
+            
+            // Подсвечиваем найденный текст
+            if (headerMatch && button) {
+              highlightInElement(button, searchText);
+            }
+            if (contentMatch && content) {
+              highlightInElement(content, searchText);
+            }
+          } else {
+            card.style.display = 'none';
+          }
+        }
+      });
+      
+      // Обновляем счетчик результатов
+      if (resultsCount) {
+        if (searchText) {
+          resultsCount.textContent = `Найдено: ${visibleCount} из ${allCards.length}`;
+        } else {
+          resultsCount.textContent = `Всего: ${allCards.length} элементов`;
+        }
+      }
+    }
+    
+    // Обработчики событий
+    if (searchInput) {
+      searchInput.addEventListener('input', function() {
+        performLiveSearch();
+      });
+      
+      // Фокус на поле поиска
+      searchInput.focus();
+    }
+    
+    if (clearButton) {
+      clearButton.addEventListener('click', function() {
+        searchInput.value = '';
+        performLiveSearch();
+        searchInput.focus();
+      });
+    }
+    
+    // Начальное отображение счетчика
+    if (resultsCount) {
+      resultsCount.textContent = `Всего: ${leftPanel.querySelectorAll('.card').length} элементов`;
+    }
+    
+    console.log('Поисковый интерфейс успешно создан');
+  }
+});
+</script>
+</body>
+</html>
