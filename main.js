@@ -1,9 +1,9 @@
 async function getResponse() {
-  const content = await (await fetch('https://codenameyau.github.io/assets/data/gallery.json')).json();
+  const content = await (await fetch('https://xxcloverxxx.github.io/info.json')).json();
   const list = document.querySelector('.lestCards');
   list.innerHTML = '';
   let UID = 0;
-  for (let item of content.gallery) {
+  for (let item of content.allFaq) {
 
     list.innerHTML += `
     <div class="card">
@@ -17,7 +17,7 @@ async function getResponse() {
       <div id="collapse-${UID}" class="collapse">
         <div class="card-body position-relative">
           <button class="copy-btn" onclick="copyContent(this)"><i class="fa fa-copy"></i></button>
-         <div class="content">${item.link}</div>
+         <div class="content">${item.text}</div>
       </div>
     </div>
 
