@@ -30,60 +30,6 @@
     },
 
     {
-      "level" : "Колледж",
-      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ»",
-      "specialty" : "38.02.01 Экономика и бухгалтерский учет (на базе 9 классов)",
-
-      "kAndVi" : [3, 10],
-      "ege" : [11],
-
-      "oForm" : 1,
-      "oBudget" : "25",
-      "oContract" : "25",
-      "oPrice" : "85 100",
-      "oYear" : "2 года",
-
-      "ozForm" : 0,
-      "ozBudget" : "-",
-      "ozContract" : "-",
-      "ozPrice" : "-",
-      "ozYear" : "-",
-
-      "zForm" : 0,
-      "zBudget" : "-",
-      "zContract" : "-",
-      "zPrice" : "-",
-      "zYear" : "-"
-    },
-
-    {
-      "level" : "Колледж",
-      "faculty" : "Энергодарский колледж ФГБОУ ВО «МелГУ»",
-      "specialty" : "38.03.01 Экономика",
-
-      "kAndVi" : [11],
-      "ege" : [11],
-
-      "oForm" : 1,
-      "oBudget" : "15",
-      "oContract" : "250",
-      "oPrice" : "117 000",
-      "oYear" : "2 года",
-
-      "ozForm" : 1,
-      "ozBudget" : "15",
-      "ozContract" : "250",
-      "ozPrice" : "53 250",
-      "ozYear" : "2 года 6 месяцев",
-
-      "zForm" : 0,
-      "zBudget" : "-",
-      "zContract" : "-",
-      "zPrice" : "-",
-      "zYear" : "-"
-    },
-
-    {
       "level" : "Бакалавриат",
       "faculty" : "Факультет энергетики",
       "specialty" : "13.03.02 Электроэнергетика и электротехника (Электроэнергетика, электротехника и электромеханика)",
@@ -138,6 +84,719 @@
       "zYear" : "-"
       
     },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "15.02.19 Сварочное производство (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "21.02.20 Прикладная геодезия (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "25.02.08 Эксплуатация беспилотных авиационных систем (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "35.02.05 Агрономия (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "35.02.16 Эксплуатация и ремонт сельскохозяйственной техники и оборудования (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "36.02.01 Ветеринария (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "38.02.01 Экономика и бухгалтерский учет (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "50",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "38.02.03 Операционная деятельность в логистике (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "40.02.04 Юриспруденция (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "25",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "36.02.01 Ветеринария (на базе 11 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Васильевский колледж ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "46.02.01 Документационное обеспечение управления и архивоведение (на базе 11 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "1 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "08.02.04 Водоснабжение и водоотведение (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "09.02.12 Техническая эксплуатация и сопровождение информационных систем (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "19.02.11 Технология продуктов питания из растительного сырья (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "35.02.05 Агрономия (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "38.02.06 Финансы (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "50",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "39.02.01 Социальная работа (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "40.02.04 Юриспруденция (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Бердянский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "43.02.16 Туризм и гостеприимство (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "08.02.09 Монтаж, наладка и эксплуатация электрооборудования промышленных и гражданских зданий (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "34.02.01 Сестринское дело (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "40.02.04 Юриспруденция (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "44.02.02 Преподавание в начальных классах (на базе 9 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "3 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "09.02.01 Компьютерные системы и комплексы (на базе 11 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "10",
+      "oPrice" : "-",
+      "oYear" : "2 года 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "34.02.01 Сестринское дело (на базе 11 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "5",
+      "oPrice" : "-",
+      "oYear" : "1 год 10 месяцев",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
+    {
+      "level" : "Колледж (СПО)",
+      "faculty" : "Энергодарский филиал ФГБОУ ВО «МелГУ» (СПО)",
+      "specialty" : "44.02.02 Преподавание в начальных классах (на базе 11 классов)",
+
+      "kAndVi" : [0],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "15",
+      "oPrice" : "-",
+      "oYear" : "?",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+    },
+
 
 
 
