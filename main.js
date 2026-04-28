@@ -81,7 +81,7 @@ async function getSpecialties() {
     }
 
     list.innerHTML += `
-        <div class="col-md-4">
+        <div class="col-md-4 custom-col">
           <div class="card">
             <div class="card-body">
               <small>${item.faculty}</small><br/>
