@@ -45,7 +45,7 @@ async function getSpecialties() {
     8: "Описание 8",
     9: "Описание 9",
     10: "Описание 10",
-    11: "Описание 11"
+    11: "Нет"
   };
 
 //Предметы ЕГЭ
@@ -160,7 +160,7 @@ async function getSpecialties() {
 //Вкладка ВИ и К
     let kAndViButton = '';
     let kAndViTab = '';
-    if (kAndViAll != "Описание 11") {
+    if (kAndViAll != "Нет") {
         kAndViButton += `<button class="nav-link" id="nav-vi-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-vi-${UID}" type="button" role="tab" aria-controls="nav-vi-${UID}" aria-selected="false">ВИ и К</button>`;
 
         kAndViTab += `
