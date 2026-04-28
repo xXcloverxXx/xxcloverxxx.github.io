@@ -62,6 +62,8 @@ async function getSpecialties() {
   };
 
   let UID = 0;
+
+  //цикл начало
   for (let item of content.allSpecialty) {
 
     let kAndViText = '';
@@ -80,6 +82,74 @@ async function getSpecialties() {
       });
     }
 
+
+    let oFormButton = '';
+    let oFormTab = '';
+
+    if (item.oForm == 1) {
+        oFormButton += `<button class="nav-link active" id="nav-home-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-home-${UID}" type="button" role="tab" aria-controls="nav-home-${UID}" aria-selected="true">Очная</button>`;
+
+        oFormTab += `
+              <div class="tab-pane fade show active" id="nav-home-${UID}" role="tabpanel" aria-labelledby="nav-home-tab-${UID}" tabindex="0">
+                <p>Количество бюджетных мест: <span class="bold">${item.oBudget}</span></p>
+                <p>Количество контрактных мест:  <span class="bold">${item.oContract}</span></p>
+                <p>Стоимость обучения:  <span class="bold">${item.oPrice}</span></p>
+                <p>Срок обучения:  <span class="bold">${item.oYear}</span></p>
+              </div>
+        `;
+    } else {
+        oFormButton += `<button class="nav-link" id="nav-disabled-tab" data-bs-toggle="tab" data-bs-target="#nav-disabled" type="button" role="tab" aria-controls="nav-disabled" aria-selected="false" disabled>Очная</button>`;
+
+        oFormTab += `
+              <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
+        `;
+    }
+
+
+    let ozFormButton = '';
+    let ozFormTab = '';
+    if (item.ozForm == 1) {
+        ozFormButton += `<button class="nav-link" id="nav-profile-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-profile-${UID}" type="button" role="tab" aria-controls="nav-profile-${UID}" aria-selected="false">Очно-заочная</button>`;
+
+        ozFormTab += `
+              <div class="tab-pane fade" id="nav-profile-${UID}" role="tabpanel" aria-labelledby="nav-profile-tab-${UID}" tabindex="0">
+                <p>Количество бюджетных мест: <span class="bold">${item.ozBudget}</span></p>
+                <p>Количество контрактных мест:  <span class="bold">${item.ozContract}</span></p>
+                <p>Стоимость обучения:  <span class="bold">${item.ozPrice}</span></p>
+                <p>Срок обучения:  <span class="bold">${item.ozYear}</span></p>
+              </div>
+        `;
+    } else {
+        ozFormButton += `<button class="nav-link" id="nav-disabled-tab" data-bs-toggle="tab" data-bs-target="#nav-disabled" type="button" role="tab" aria-controls="nav-disabled" aria-selected="false" disabled>Очно-заочная</button>`;
+
+        ozFormTab += `
+              <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
+        `;
+    }
+
+
+    let zFormButton = '';
+    let zFormTab = '';
+    if (item.zForm == 1) {
+        zFormButton += `<button class="nav-link" id="nav-contact-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-contact-${UID}" type="button" role="tab" aria-controls="nav-contact-${UID}" aria-selected="false">Заочная</button>`;
+
+        zFormTab += `
+              <div class="tab-pane fade" id="nav-contact-${UID}" role="tabpanel" aria-labelledby="nav-contact-tab-${UID}" tabindex="0">
+                <p>Количество бюджетных мест: <span class="bold">${item.zBudget}</span></p>
+                <p>Количество контрактных мест:  <span class="bold">${item.zContract}</span></p>
+                <p>Стоимость обучения:  <span class="bold">${item.zPrice}</span></p>
+                <p>Срок обучения:  <span class="bold">${item.zYear}</span></p>
+              </div>
+        `;
+    } else {
+        zFormButton += `<button class="nav-link" id="nav-disabled-tab" data-bs-toggle="tab" data-bs-target="#nav-disabled" type="button" role="tab" aria-controls="nav-disabled" aria-selected="false" disabled>Заочная</button>`;
+
+        zFormTab += `
+              <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
+        `;
+    }
+    
+
     list.innerHTML += `
         <div class="col-md-4 custom-col">
           <div class="card">
@@ -92,33 +162,18 @@ async function getSpecialties() {
             <!-- Навигация по вкладкам -->
             <nav>
               <div class="nav nav-tabs" id="nav-tab-${UID}" role="tablist"> <!-- уникальный id карточки -->
-                <button class="nav-link active" id="nav-home-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-home-${UID}" type="button" role="tab" aria-controls="nav-home-${UID}" aria-selected="true">Очная</button>
-                <button class="nav-link" id="nav-profile-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-profile-${UID}" type="button" role="tab" aria-controls="nav-profile-${UID}" aria-selected="false">Очно-заочная</button>
-                <button class="nav-link" id="nav-contact-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-contact-${UID}" type="button" role="tab" aria-controls="nav-contact-${UID}" aria-selected="false">Заочная</button>
+                ${oFormButton}
+                ${ozFormButton}
+                ${zFormButton}
                 <button class="nav-link" id="nav-vi-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-vi-${UID}" type="button" role="tab" aria-controls="nav-vi-${UID}" aria-selected="false">ВИ и К</button>
                 <button class="nav-link" id="nav-ege-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-ege-${UID}" type="button" role="tab" aria-controls="nav-ege-${UID}" aria-selected="false">ЕГЭ</button>
               </div>
             </nav>
 
             <div class="tab-content" id="nav-tabContent-${UID}">
-              <div class="tab-pane fade show active" id="nav-home-${UID}" role="tabpanel" aria-labelledby="nav-home-tab-${UID}" tabindex="0">
-                <p>Количество бюджетных мест: <span class="bold">${item.oBudget}</span></p>
-                <p>Количество контрактных мест:  <span class="bold">${item.oContract}</span></p>
-                <p>Стоимость обучения:  <span class="bold">${item.oPrice}</span></p>
-                <p>Срок обучения:  <span class="bold">${item.oYear}</span></p>
-              </div>
-              <div class="tab-pane fade" id="nav-profile-${UID}" role="tabpanel" aria-labelledby="nav-profile-tab-${UID}" tabindex="0">
-                <p>Количество бюджетных мест: <span class="bold">${item.ozBudget}</span></p>
-                <p>Количество контрактных мест:  <span class="bold">${item.ozContract}</span></p>
-                <p>Стоимость обучения:  <span class="bold">${item.ozPrice}</span></p>
-                <p>Срок обучения:  <span class="bold">${item.ozYear}</span></p>
-              </div>
-              <div class="tab-pane fade" id="nav-contact-${UID}" role="tabpanel" aria-labelledby="nav-contact-tab-${UID}" tabindex="0">
-                <p>Количество бюджетных мест: <span class="bold">${item.zBudget}</span></p>
-                <p>Количество контрактных мест:  <span class="bold">${item.zContract}</span></p>
-                <p>Стоимость обучения:  <span class="bold">${item.zPrice}</span></p>
-                <p>Срок обучения:  <span class="bold">${item.zYear}</span></p>
-              </div>
+              ${oFormTab}
+              ${ozFormTab}
+              ${zFormTab}
               <div class="tab-pane fade" id="nav-vi-${UID}" role="tabpanel" aria-labelledby="nav-vi-tab-${UID}" tabindex="0">
                 ${kAndViText}
               </div>
