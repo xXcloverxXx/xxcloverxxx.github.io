@@ -93,7 +93,7 @@ async function getSpecialties() {
               <div class="tab-pane fade show active" id="nav-home-${UID}" role="tabpanel" aria-labelledby="nav-home-tab-${UID}" tabindex="0">
                 <p>Количество бюджетных мест: <span class="bold">${item.oBudget}</span></p>
                 <p>Количество контрактных мест:  <span class="bold">${item.oContract}</span></p>
-                <p>Стоимость обучения:  <span class="bold">${item.oPrice}</span></p>
+                <p>Стоимость обучения за один учебный год:  <span class="bold">${item.oPrice}₽</span></p>
                 <p>Срок обучения:  <span class="bold">${item.oYear}</span></p>
               </div>
         `;
@@ -115,7 +115,7 @@ async function getSpecialties() {
               <div class="tab-pane fade" id="nav-profile-${UID}" role="tabpanel" aria-labelledby="nav-profile-tab-${UID}" tabindex="0">
                 <p>Количество бюджетных мест: <span class="bold">${item.ozBudget}</span></p>
                 <p>Количество контрактных мест:  <span class="bold">${item.ozContract}</span></p>
-                <p>Стоимость обучения:  <span class="bold">${item.ozPrice}</span></p>
+                <p>Стоимость обучения за один учебный год:  <span class="bold">${item.ozPrice}₽</span></p>
                 <p>Срок обучения:  <span class="bold">${item.ozYear}</span></p>
               </div>
         `;
@@ -137,7 +137,7 @@ async function getSpecialties() {
               <div class="tab-pane fade" id="nav-contact-${UID}" role="tabpanel" aria-labelledby="nav-contact-tab-${UID}" tabindex="0">
                 <p>Количество бюджетных мест: <span class="bold">${item.zBudget}</span></p>
                 <p>Количество контрактных мест:  <span class="bold">${item.zContract}</span></p>
-                <p>Стоимость обучения:  <span class="bold">${item.zPrice}</span></p>
+                <p>Стоимость обучения за один учебный год:  <span class="bold">${item.zPrice}₽</span></p>
                 <p>Срок обучения:  <span class="bold">${item.zYear}</span></p>
               </div>
         `;
