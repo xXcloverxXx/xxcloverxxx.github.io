@@ -96,7 +96,7 @@ async function getSpecialties() {
                 <button class="nav-link" id="nav-profile-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-profile-${UID}" type="button" role="tab" aria-controls="nav-profile-${UID}" aria-selected="false">Очно-заочная</button>
                 <button class="nav-link" id="nav-contact-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-contact-${UID}" type="button" role="tab" aria-controls="nav-contact-${UID}" aria-selected="false">Заочная</button>
                 <button class="nav-link" id="nav-vi-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-vi-${UID}" type="button" role="tab" aria-controls="nav-vi-${UID}" aria-selected="false">ВИ и К</button>
-                <button class="nav-link" id="nav-ege-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-ege-${UID}" type="button" role="tab" aria-controls="nav-ege-${UID}" aria-selected="false">ЕГЭ баллы</button>
+                <button class="nav-link" id="nav-ege-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-ege-${UID}" type="button" role="tab" aria-controls="nav-ege-${UID}" aria-selected="false">ЕГЭ</button>
               </div>
             </nav>
 
