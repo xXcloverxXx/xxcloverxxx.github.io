@@ -31,6 +31,8 @@ async function getSpecialties() {
   const content = await (await fetch('https://xxcloverxxx.github.io/specialties.json')).json();
   const list = document.querySelector('.rightCards');
   list.innerHTML = '';
+
+//Вступительные испытания и консультации ВИ и К
   const textskAndVi = {
     0: "Описание 0",
     1: "Описание 1",
@@ -46,6 +48,7 @@ async function getSpecialties() {
     11: "Описание 11"
   };
 
+//Предметы ЕГЭ
   const textsege = {
     0: "ЕГЭ 0",
     1: "ЕГЭ 1",
@@ -61,31 +64,35 @@ async function getSpecialties() {
     11: "Нет"
   };
 
+//Уникальный индификатор для карточек
   let UID = 0;
 
   //цикл начало
   for (let item of content.allSpecialty) {
 
+//Вступительные испытания и консультации ВИ и К
     let kAndViText = '';
-
+    let kAndViAll = ''; //Создание или нет вкладки
     if (item.kAndVi) {
       item.kAndVi.forEach(id => {
         kAndViText += `<p>${textskAndVi[id] ?? 'Нет данных'}</p>`;
+        kAndViAll += textskAndVi[id];
       });
     }
 
+//Предметы ЕГЭ
     let egeText = '';
-
+    let egeAll = '';//Создание или нет вкладки
     if (item.ege) {
       item.ege.forEach(id => {
         egeText += `<p>${textsege[id] ?? 'Нет данных'}</p>`;
+        egeAll += textsege[id];
       });
     }
 
-
+//Вкладка Очная форма
     let oFormButton = '';
     let oFormTab = '';
-
     if (item.oForm == 1) {
         oFormButton += `<button class="nav-link active" id="nav-home-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-home-${UID}" type="button" role="tab" aria-controls="nav-home-${UID}" aria-selected="true">Очная</button>`;
 
@@ -105,7 +112,7 @@ async function getSpecialties() {
         `;
     }
 
-
+//Вкладка Очно-заочная форма
     let ozFormButton = '';
     let ozFormTab = '';
     if (item.ozForm == 1) {
@@ -127,7 +134,7 @@ async function getSpecialties() {
         `;
     }
 
-
+//Вкладка Заочная форма
     let zFormButton = '';
     let zFormTab = '';
     if (item.zForm == 1) {
@@ -148,8 +155,50 @@ async function getSpecialties() {
               <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
         `;
     }
-    
 
+
+//Вкладка ВИ и К
+    let kAndViButton = '';
+    let kAndViTab = '';
+    if (kAndViAll != "Описание 11") {
+        kAndViButton += `<button class="nav-link" id="nav-vi-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-vi-${UID}" type="button" role="tab" aria-controls="nav-vi-${UID}" aria-selected="false">ВИ и К</button>`;
+
+        kAndViTab += `
+              <div class="tab-pane fade" id="nav-vi-${UID}" role="tabpanel" aria-labelledby="nav-vi-tab-${UID}" tabindex="0">
+                ${kAndViText}
+                
+              </div>
+        `;
+    } else {
+        kAndViButton += `<button class="nav-link" id="nav-disabled-tab" data-bs-toggle="tab" data-bs-target="#nav-disabled" type="button" role="tab" aria-controls="nav-disabled" aria-selected="false" disabled>ВИ и К</button>`;
+
+        kAndViTab += `
+              <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
+        `;
+    }
+
+
+//Вкладка ЕГЭ
+    let egeButton = '';
+    let egeTab = '';
+    if (egeAll != "Нет") {
+        egeButton += `<button class="nav-link" id="nav-ege-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-ege-${UID}" type="button" role="tab" aria-controls="nav-ege-${UID}" aria-selected="false">ЕГЭ</button>`;
+
+        egeTab += `
+              <div class="tab-pane fade" id="nav-ege-${UID}" role="tabpanel" aria-labelledby="nav-ege-tab-${UID}" tabindex="0">
+                ${egeText}
+              </div>
+        `;
+    } else {
+        egeButton += `<button class="nav-link" id="nav-disabled-tab" data-bs-toggle="tab" data-bs-target="#nav-disabled" type="button" role="tab" aria-controls="nav-disabled" aria-selected="false" disabled>ЕГЭ</button>`;
+
+        egeTab += `
+              <div class="tab-pane fade" id="nav-disabled" role="tabpanel" aria-labelledby="nav-disabled-tab" tabindex="0">...</div>
+        `;
+    }
+
+    
+//Основной HTML
     list.innerHTML += `
         <div class="col-md-4 custom-col">
           <div class="card">
@@ -165,8 +214,8 @@ async function getSpecialties() {
                 ${oFormButton}
                 ${ozFormButton}
                 ${zFormButton}
-                <button class="nav-link" id="nav-vi-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-vi-${UID}" type="button" role="tab" aria-controls="nav-vi-${UID}" aria-selected="false">ВИ и К</button>
-                <button class="nav-link" id="nav-ege-tab-${UID}" data-bs-toggle="tab" data-bs-target="#nav-ege-${UID}" type="button" role="tab" aria-controls="nav-ege-${UID}" aria-selected="false">ЕГЭ</button>
+                ${kAndViButton}
+                ${egeButton}
               </div>
             </nav>
 
@@ -174,17 +223,15 @@ async function getSpecialties() {
               ${oFormTab}
               ${ozFormTab}
               ${zFormTab}
-              <div class="tab-pane fade" id="nav-vi-${UID}" role="tabpanel" aria-labelledby="nav-vi-tab-${UID}" tabindex="0">
-                ${kAndViText}
-              </div>
-              <div class="tab-pane fade" id="nav-ege-${UID}" role="tabpanel" aria-labelledby="nav-ege-tab-${UID}" tabindex="0">
-                ${egeText}
-              </div>
+              ${kAndViTab}
+              ${egeTab}
             </div>
           </div>
         </div>
 
     `;
+
+//Уникальный индификатор для карточек
     UID += 1;
   }
 }
