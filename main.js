@@ -16,7 +16,6 @@ async function getallFaq() {
       </div>
       <div id="collapse-${UID}" class="collapse">
         <div class="card-body position-relative">
-          <button class="copy-btn" onclick="copyContent(this)"><i class="fa fa-copy"></i></button>
          <div class="content">${item.text}</div>
       </div>
     </div>
