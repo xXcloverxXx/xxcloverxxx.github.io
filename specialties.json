@@ -907,7 +907,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -933,8 +932,7 @@
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -960,15 +958,40 @@
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-" 
     },
     {
       "level" : "Бакалавриат",
       "faculty" : "Агротехнологический факультет",
-      "specialty" : "",
+      "specialty" : "06.03.02 Почвоведение (Управление качеством почв и биотехнологии)",
 
-      "kAndVi" : [14, 1, 3, 15, 10, 8, 9],
+      "kAndVi" : [14, 1, 11, 15, 9, 7, 3],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "15.03.02 Технологические машины и оборудование (Компьютерный инжиниринг пищевых производств)",
+
+      "kAndVi" : [14, 1, 3, 15, 10, 9, 8],
       "ege" : [0],
 
       "oForm" : 1,
@@ -988,14 +1011,13 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
       "faculty" : "Агротехнологический факультет",
-      "specialty" : "",
+      "specialty" : "19.03.02 Продукты питания из растительного сырья (Технология пищевых продуктов общего и специального назначения)",
 
-      "kAndVi" : [14, 1, 3, 15, 10, 8, 9],
+      "kAndVi" : [14, 1, 3, 15, 11, 9, 10],
       "ege" : [0],
 
       "oForm" : 1,
@@ -1014,15 +1036,14 @@
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-"  
     },
     {
       "level" : "Бакалавриат",
       "faculty" : "Агротехнологический факультет",
-      "specialty" : "",
+      "specialty" : "19.03.03 Продукты питания животного происхождения (Технология производства продуктов питания животного происхождения)",
 
-      "kAndVi" : [14, 1, 3, 15, 10, 8, 9],
+      "kAndVi" : [14, 1, 3, 15, 11, 9, 10],
       "ege" : [0],
 
       "oForm" : 1,
@@ -1041,21 +1062,167 @@
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-" 
     },
-
-
-
-
-
-
-
-
-
     {
       "level" : "Бакалавриат",
-      "faculty" : "Юридический факультет",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.03.03 Агрохимия и агропочвоведение (Агрохимическое сопровождение агротехнологий)",
+
+      "kAndVi" : [14, 1, 11, 15, 9, 7, 3],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.03.04 Агрономия (Агрономия)",
+
+      "kAndVi" : [14, 1, 11, 15, 9, 7, 3],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.03.04 Агрономия (Агробизнес)",
+
+      "kAndVi" : [14, 1, 11, 15, 9, 7, 3],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.03.05 Садоводство (Интенсивное садоводство)",
+
+      "kAndVi" : [14, 1, 11, 15, 9, 7, 3],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.03.06 Агроинженерия (Технические системы в агробизнесе)",
+
+      "kAndVi" : [14, 1, 3, 15, 11, 10, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.03.11. Гидромелиорация (Водосберегающие технологии)",
+
+      "kAndVi" : [14, 1, 3, 15, 11, 10, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Факультет туризма и сервиса",
       "specialty" : "",
 
       "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
@@ -1077,8 +1244,42 @@
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-" 
+    },
+
+
+
+
+
+
+
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Факультет туризма и сервиса",
+      "specialty" : "",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
     },
 
 
