@@ -3,25 +3,25 @@
 
     {
       "level" : "Бакалавриат",
-      "faculty" : "Факультет технических наук",
-      "specialty" : "02.03.02 Фундаментальная информатика и информационные технологии (Программирование и информационные технологии)",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.01 Экономика (Экономика предприятий и организаций)",
 
-      "kAndVi" : [0, 1, 5],
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
       "ege" : [0, 1, 5],
 
       "oForm" : 1,
-      "oBudget" : "80",
-      "oContract" : "160",
-      "oPrice" : "113 900",
-      "oYear" : "4 года",
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
 
-      "ozForm" : 0,
+      "ozForm" : 1,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
-      "ozYear" : "4 года 6 месяцев",
+      "ozYear" : "-",
 
-      "zForm" : 0,
+      "zForm" : 1,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
@@ -31,53 +31,373 @@
 
     {
       "level" : "Бакалавриат",
-      "faculty" : "Факультет энергетики",
-      "specialty" : "13.03.02 Электроэнергетика и электротехника (Электроэнергетика, электротехника и электромеханика)",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.01 Экономика (Финансы и кредит)",
 
-      "kAndVi" : [2, 3, 9],
-      "ege" : [8, 7, 10, 5, 4],
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
 
       "oForm" : 1,
-      "oBudget" : "70",
-      "oContract" : "150",
-      "oPrice" : "100 800",
-      "oYear" : "4 года",
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
 
       "ozForm" : 1,
-      "ozBudget" : "60",
-      "ozContract" : "120",
-      "ozPrice" : "64 000",
-      "ozYear" : "4 года 6 месяцев",
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
 
       "zForm" : 1,
-      "zBudget" : "25",
-      "zContract" : "250",
-      "zPrice" : "51 200",
-      "zYear" : "4 года 6 месяцев"
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
       
     },
 
     {
-      "level" : "Магистратура",
-      "faculty" : "Социально-гуманитарный факультет",
-      "specialty" : "37.04.01 Психология (Практическая психология)",
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.01 Экономика (Учет, анализ и аудит)",
 
-      "kAndVi" : [11, 7, 6, 5, 4, 3, 2],
-      "ege" : [5, 1, 8],
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
 
       "oForm" : 1,
-      "oBudget" : "18",
-      "oContract" : "100",
-      "oPrice" : "130 600",
-      "oYear" : "2 года",
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
 
       "ozForm" : 1,
-      "ozBudget" : "15",
-      "ozContract" : "100",
-      "ozPrice" : "62 700",
-      "ozYear" : "2 года 6 месяцев",
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
 
-      "zForm" : 0,
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.01 Экономика (Цифровая экономика)",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.01 Экономика (Экономика агропромышленного комплекса)",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.02 Менеджмент (Менеджмент предприятий и организаций)",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.03 Управление персоналом (Управление персоналом)",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.04 Государственное и муниципальное управление (Государственное и муниципальное управление)",
+
+      "kAndVi" : [14, 1, 4, 15, 3, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.05 Бизнес-информатика (Бизнесинформатика",
+
+      "kAndVi" : [14, 1, 3, 15, 6, 7, 4],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.06 Торговое дело (Маркетинг)",
+
+      "kAndVi" : [14, 1, 3, 15, 6, 7, 4, 5],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.03.10 Жилищное хозяйство и коммунальная инфраструктура (Экономика жилищно-коммунального хозяйства)",
+
+      "kAndVi" : [14, 1, 3, 15, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.05.01 Экономическая безопасность (Экономико-правовое обеспечение экономической безопасности)",
+
+      "kAndVi" : [14, 1, 3, 15, 6, 7, 4],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
@@ -91,6 +411,112 @@
 
 
 
+
+
+
+    {
+      "level" : "Бакалавриат",
+      "faculty" : "Экономический факультет",
+      "specialty" : "",
+
+      "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-"
+      
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "level" : "Бакалавриат/Магистратура/Специалитет/Колледж",
+      "faculty" : "Название факультета/Филиала",
+      "specialty" : "Направление подготовки",
+
+      "kAndVi" : [0, 1, 5],
+      "ege" : [0, 1, 5],
+
+      "oForm" : 1,
+      "oBudget" : "Количество бюджетных мест",
+      "oContract" : "Количество контрактных мест",
+      "oPrice" : "Стоимость обучения контракт",
+      "oYear" : "Срок обучения очная",
+
+      "ozForm" : 1,
+      "ozBudget" : "Количество бюджетных мест",
+      "ozContract" : "Количество контрактных мест",
+      "ozPrice" : "Стоимость обучения контракт",
+      "ozYear" : "Срок обучения очно-заочная",
+      
+      "zForm" : 1,
+      "zBudget" : "Количество бюджетных мест",
+      "zContract" : "Количество контрактных мест",
+      "zPrice" : "Стоимость обучения контракт",
+      "zYear" : "Срок обучения заочная"
+      
+    },
+
+
+    {
+      "level" : "Бакалавриат/Магистратура/Специалитет/Колледж",
+      "faculty" : "Название факультета/Филиала",
+      "specialty" : "Направление подготовки",
+
+      "kAndVi" : [0, 1, 5],
+      "ege" : [0, 1, 5],
+
+      "oForm" : 1,
+      "oBudget" : "Количество бюджетных мест",
+      "oContract" : "Количество контрактных мест",
+      "oPrice" : "Стоимость обучения контракт",
+      "oYear" : "Срок обучения очная",
+
+      "ozForm" : 1,
+      "ozBudget" : "Количество бюджетных мест",
+      "ozContract" : "Количество контрактных мест",
+      "ozPrice" : "Стоимость обучения контракт",
+      "ozYear" : "Срок обучения очно-заочная",
+      
+      "zForm" : 1,
+      "zBudget" : "Количество бюджетных мест",
+      "zContract" : "Количество контрактных мест",
+      "zPrice" : "Стоимость обучения контракт",
+      "zYear" : "Срок обучения заочная"
+      
+    },
 
 
 
