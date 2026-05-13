@@ -3,25 +3,25 @@
 
     {
       "level" : "Бакалавриат",
-      "faculty" : "Проверить Экономический факультет",
+      "faculty" : "Экономический факультет",
       "specialty" : "38.03.01 Экономика (Экономика предприятий и организаций)",
 
       "kAndVi" : [14, 1, 3, 15, 4, 5, 6, 7],
       "ege" : [0, 1, 5],
 
       "oForm" : 1,
-      "oBudget" : "-",
-      "oContract" : "-",
+      "oBudget" : "32",
+      "oContract" : "11",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
-      "ozBudget" : "-",
-      "ozContract" : "-",
+      "ozBudget" : "25",
+      "ozContract" : "19",
       "ozPrice" : "-",
       "ozYear" : "-",
 
-      "zForm" : 1,
+      "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
@@ -38,13 +38,13 @@
 
       "oForm" : 1,
       "oBudget" : "32",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
-      "ozContract" : "-",
+      "ozContract" : "7",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -52,8 +52,7 @@
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-"  
     },
     {
       "level" : "Бакалавриат",
@@ -65,13 +64,13 @@
 
       "oForm" : 1,
       "oBudget" : "32",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "12",
-      "ozContract" : "-",
+      "ozContract" : "7",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -80,7 +79,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -92,7 +90,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "2",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -107,7 +105,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -119,7 +116,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -134,7 +131,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -146,13 +142,13 @@
 
       "oForm" : 1,
       "oBudget" : "55",
-      "oContract" : "-",
+      "oContract" : "19",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
-      "ozContract" : "-",
+      "ozContract" : "10",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -161,7 +157,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -173,13 +168,13 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
-      "ozForm" : 0,
+      "ozForm" : 1,
       "ozBudget" : "-",
-      "ozContract" : "-",
+      "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -188,7 +183,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -200,13 +194,13 @@
 
       "oForm" : 1,
       "oBudget" : "70",
-      "oContract" : "-",
+      "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "40",
-      "ozContract" : "-",
+      "ozContract" : "37",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -215,19 +209,18 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
       "faculty" : "Экономический факультет",
-      "specialty" : "38.03.05 Бизнес-информатика (Бизнесинформатика)",
+      "specialty" : "38.03.05 Бизнес-информатика (Бизнес-информатика)",
 
       "kAndVi" : [14, 1, 3, 15, 6, 7, 4],
       "ege" : [0],
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -242,7 +235,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -254,7 +246,7 @@
 
       "oForm" : 1,
       "oBudget" : "36",
-      "oContract" : "-",
+      "oContract" : "14",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -269,7 +261,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -281,7 +272,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "1",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -296,7 +287,6 @@
       "zContract" : "-",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
     {
       "level" : "Бакалавриат",
@@ -308,7 +298,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "16",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -320,10 +310,9 @@
 
       "zForm" : 1,
       "zBudget" : "25",
-      "zContract" : "-",
+      "zContract" : "5",
       "zPrice" : "-",
       "zYear" : "-"
-      
     },
 
 
@@ -338,13 +327,13 @@
 
       "oForm" : 1,
       "oBudget" : "50",
-      "oContract" : "-",
+      "oContract" : "19",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
-      "ozContract" : "-",
+      "ozContract" : "30",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -364,13 +353,13 @@
 
       "oForm" : 1,
       "oBudget" : "50",
-      "oContract" : "-",
+      "oContract" : "40",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
-      "ozContract" : "-",
+      "ozContract" : "50",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -390,13 +379,13 @@
 
       "oForm" : 1,
       "oBudget" : "50",
-      "oContract" : "-",
+      "oContract" : "50",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
-      "ozContract" : "-",
+      "ozContract" : "50",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -416,7 +405,7 @@
 
       "oForm" : 1,
       "oBudget" : "40",
-      "oContract" : "-",
+      "oContract" : "21",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -442,7 +431,7 @@
 
       "oForm" : 1,
       "oBudget" : "40",
-      "oContract" : "-",
+      "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -468,7 +457,7 @@
 
       "oForm" : 1,
       "oBudget" : "40",
-      "oContract" : "-",
+      "oContract" : "65",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -480,7 +469,7 @@
 
       "zForm" : 1,
       "zBudget" : "40",
-      "zContract" : "-",
+      "zContract" : "35",
       "zPrice" : "-",
       "zYear" : "-"
     },
@@ -523,13 +512,13 @@
 
       "oForm" : 1,
       "oBudget" : "80",
-      "oContract" : "-",
+      "oContract" : "80",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "50",
-      "ozContract" : "-",
+      "ozContract" : "50",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -549,7 +538,7 @@
 
       "oForm" : 1,
       "oBudget" : "36",
-      "oContract" : "-",
+      "oContract" : "36",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -561,7 +550,7 @@
 
       "zForm" : 1,
       "zBudget" : "30",
-      "zContract" : "-",
+      "zContract" : "30",
       "zPrice" : "-",
       "zYear" : "-"
     },
@@ -578,7 +567,7 @@
 
       "oForm" : 1,
       "oBudget" : "100",
-      "oContract" : "-",
+      "oContract" : "100",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -604,7 +593,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -630,7 +619,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -682,7 +671,7 @@
 
       "oForm" : 1,
       "oBudget" : "36",
-      "oContract" : "-",
+      "oContract" : "36",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -708,7 +697,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -734,7 +723,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -760,7 +749,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -786,7 +775,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -812,7 +801,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -838,7 +827,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -864,7 +853,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -890,7 +879,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -919,7 +908,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -945,7 +934,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -971,7 +960,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -997,7 +986,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1023,7 +1012,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1049,7 +1038,7 @@
 
       "oForm" : 1,
       "oBudget" : "28",
-      "oContract" : "-",
+      "oContract" : "30",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1061,7 +1050,7 @@
 
       "zForm" : 1,
       "zBudget" : "20",
-      "zContract" : "-",
+      "zContract" : "30",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1075,7 +1064,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1101,7 +1090,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1127,7 +1116,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "30",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1139,7 +1128,7 @@
 
       "zForm" : 1,
       "zBudget" : "15",
-      "zContract" : "-",
+      "zContract" : "30",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1153,7 +1142,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1182,7 +1171,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1208,7 +1197,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1234,7 +1223,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1260,7 +1249,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1272,7 +1261,7 @@
 
       "zForm" : 1,
       "zBudget" : "15",
-      "zContract" : "-",
+      "zContract" : "10",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1286,7 +1275,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1312,7 +1301,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1324,7 +1313,7 @@
 
       "zForm" : 1,
       "zBudget" : "12",
-      "zContract" : "-",
+      "zContract" : "10",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1341,13 +1330,13 @@
 
       "oForm" : 1,
       "oBudget" : "36",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
-      "ozContract" : "-",
+      "ozContract" : "5",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -1367,7 +1356,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1393,7 +1382,7 @@
 
       "oForm" : 1,
       "oBudget" : "20",
-      "oContract" : "-",
+      "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1405,7 +1394,7 @@
 
       "zForm" : 1,
       "zBudget" : "25",
-      "zContract" : "-",
+      "zContract" : "10",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1445,7 +1434,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1471,7 +1460,7 @@
 
       "oForm" : 1,
       "oBudget" : "16",
-      "oContract" : "-",
+      "oContract" : "1",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1523,7 +1512,7 @@
 
       "oForm" : 1,
       "oBudget" : "16",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1549,7 +1538,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1627,7 +1616,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1682,7 +1671,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1708,7 +1697,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1734,7 +1723,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1746,7 +1735,7 @@
 
       "zForm" : 1,
       "zBudget" : "25",
-      "zContract" : "-",
+      "zContract" : "20",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1760,7 +1749,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1786,7 +1775,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1812,7 +1801,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1838,7 +1827,7 @@
 
       "oForm" : 1,
       "oBudget" : "20",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1850,7 +1839,7 @@
 
       "zForm" : 1,
       "zBudget" : "20",
-      "zContract" : "-",
+      "zContract" : "10",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1864,7 +1853,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1890,7 +1879,7 @@
 
       "oForm" : 1,
       "oBudget" : "20",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1902,7 +1891,7 @@
 
       "zForm" : 1,
       "zBudget" : "5",
-      "zContract" : "-",
+      "zContract" : "5",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -1919,7 +1908,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1945,7 +1934,7 @@
 
       "oForm" : 1,
       "oBudget" : "75",
-      "oContract" : "-",
+      "oContract" : "35",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1971,7 +1960,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -1997,7 +1986,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2009,7 +1998,7 @@
 
       "zForm" : 1,
       "zBudget" : "18",
-      "zContract" : "-",
+      "zContract" : "10",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -2023,7 +2012,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2049,7 +2038,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2075,7 +2064,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2087,7 +2076,7 @@
 
       "zForm" : 1,
       "zBudget" : "15",
-      "zContract" : "-",
+      "zContract" : "10",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -2101,7 +2090,7 @@
 
       "oForm" : 1,
       "oBudget" : "24",
-      "oContract" : "-",
+      "oContract" : "26",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2127,7 +2116,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2153,7 +2142,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2179,7 +2168,7 @@
 
       "oForm" : 1,
       "oBudget" : "36",
-      "oContract" : "-",
+      "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2205,7 +2194,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2231,7 +2220,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2257,7 +2246,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2286,7 +2275,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2312,7 +2301,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2338,7 +2327,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2350,7 +2339,7 @@
 
       "zForm" : 1,
       "zBudget" : "12",
-      "zContract" : "-",
+      "zContract" : "5",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -2364,7 +2353,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2390,13 +2379,13 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "18",
-      "ozContract" : "-",
+      "ozContract" : "25",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -2415,18 +2404,18 @@
       "ege" : [0],
 
       "oForm" : 1,
-      "oBudget" : "-",
-      "oContract" : "-",
+      "oBudget" : "12",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
-      "ozForm" : 1,
+      "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
 
-      "zForm" : 1,
+      "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
@@ -2442,7 +2431,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2468,13 +2457,13 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
-      "ozForm" : 0,
+      "ozForm" : 1,
       "ozBudget" : "-",
-      "ozContract" : "-",
+      "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -2494,7 +2483,7 @@
 
       "oForm" : 1,
       "oBudget" : "12",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2520,7 +2509,7 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2546,7 +2535,7 @@
 
       "oForm" : 1,
       "oBudget" : "18",
-      "oContract" : "-",
+      "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2601,13 +2590,13 @@
 
       "oForm" : 1,
       "oBudget" : "15",
-      "oContract" : "-",
+      "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
-      "ozContract" : "-",
+      "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -2639,7 +2628,7 @@
 
       "zForm" : 1,
       "zBudget" : "25",
-      "zContract" : "-",
+      "zContract" : "35",
       "zPrice" : "-",
       "zYear" : "-" 
     },
@@ -2653,13 +2642,13 @@
 
       "oForm" : 1,
       "oBudget" : "30",
-      "oContract" : "-",
+      "oContract" : "2",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "30",
-      "ozContract" : "-",
+      "ozContract" : "6",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -2705,7 +2694,7 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
 
@@ -2731,13 +2720,13 @@
 
       "oForm" : 1,
       "oBudget" : "25",
-      "oContract" : "-",
+      "oContract" : "16",
       "oPrice" : "-",
       "oYear" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
-      "ozContract" : "-",
+      "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
 
@@ -3549,8 +3538,7 @@
       "zBudget" : "Количество бюджетных мест",
       "zContract" : "Количество контрактных мест",
       "zPrice" : "Стоимость обучения контракт",
-      "zYear" : "Срок обучения заочная"
-      
+      "zYear" : "Срок обучения заочная"  
     }
 
   ]
