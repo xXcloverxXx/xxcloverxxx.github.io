@@ -2804,6 +2804,1562 @@
 
 
 
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет технических наук",
+      "specialty" : "02.04.02 Фундаментальная информатика и информационные технологии (Программирование и информационные технологии)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "70",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет технических наук",
+      "specialty" : "10.04.01 Информационная безопасность (Безопасность компьютерных систем)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "24",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет технических наук",
+      "specialty" : "15.04.03 Прикладная механика (Компьютерный инжиниринг и вычислительная механика)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет технических наук",
+      "specialty" : "15.04.06 Мехатроника и робототехника (Мехатронные и робототехнические системы и комплексы",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет технических наук",
+      "specialty" : "44.04.04 Профессиональное обучение (по отраслям) (Информатика и вычислительная техника)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет энергетики",
+      "specialty" : "13.04.02 Электроэнергетика и электротехника (Электроэнергетика, электротехника и электромеханика)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "50",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "30",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет энергетики",
+      "specialty" : "20.04.01 Техносферная безопасность (Управление безопасностью труда)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "20",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+
+
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "37.04.01 Психология (Практическая психология)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "15",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "39.04.01 Социология (Социология)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "39.04.02 Социальная работа (Менеджмент в социальной сфере)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "18",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "39.04.03 Организация работы с молодежью (Межнациональные отношения и профилактика экстремизма в молодежной среде",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "41.04.04 Политология (Государственная политика)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "42.04.02 Журналистика (Журналистика)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "42.04.05 Медиакоммуникации (Медиакоммуникации в коммерческой и социальной сфере)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "44.04.01 Педагогическое образование (Управление образовательной организацией)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "24",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "15",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "45.04.02 Лингвистика (Теория и практика перевода)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "46.04.01 История (История и археология)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Социально-гуманитарный факультет",
+      "specialty" : "51.04.01 Культурология (Культурология)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет общего образования",
+      "specialty" : "44.04.01 Педагогическое образование (Инновационная начальная школа)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "14",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет общего образования",
+      "specialty" : "44.04.01 Педагогическое образование (Управление научно-методической деятельностью в дошкольной образовательной организации)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет общего образования",
+      "specialty" : "44.04.01 Педагогическое образование (Музыкальное образование)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет общего образования",
+      "specialty" : "44.04.02 Психолого-педагогическое образование (Психология и социальная педагогика)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет общего образования",
+      "specialty" : "44.04.03 Специальное (дефектологическое) образование (Логопедическая работа в системе образования и здравоохранения)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет общего образования",
+      "specialty" : "44.04.03 Специальное (дефектологическое) образование (Специальная психология)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Теория спорта и технологии спортивной подготовки)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "24",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Технологии обучения в физико-математическом образовании)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Инновационные технологии подготовки учителя в образовательной области «Математика и информатика»)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Преподавание иностранных языков и проектирование в иноязычном образовании)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Биология и психология в системе образования)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Проектирование педагогическх систем в биологическом и химическом образовании)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Теория и практика географического образования и экологического просвещения)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Географическое образование и физическая культура)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет инновационной педагогики",
+      "specialty" : "44.04.01 Педагогическое образование (Русский язык и литература)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет естественных наук",
+      "specialty" : "04.04.01 Химия (Химическая экспертиза и химический анализ в криминалистике)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет естественных наук",
+      "specialty" : "05.04.06 Экология и природопользование (Устойчивое развитие и охрана природных объектов)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет естественных наук",
+      "specialty" : "06.04.01 Биология (Биомедицина)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "20",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 1,
+      "ozBudget" : "30",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет естественных наук",
+      "specialty" : "06.04.01 Биология (Организационно-управленческая деятельность в сфере здравоохранения)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет естественных наук",
+      "specialty" : " 19.04.01 Биотехнология (Биохимия и биотехнология)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Факультет естественных наук",
+      "specialty" : "35.04.09 Ландшафтная архитектура (Садово-парковое и ландшафтное строительство)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.01 Экономика (Учет, анализ и аудит)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "24",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "15",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.01 Экономика (Экономика предприятий и организаций)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "36",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "20",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.02 Менеджмент (Менеджмент)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "25",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "25",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.04 Государственное и муниципальное управление (Государственное и муниципальное управление)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "36",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "40",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.06 Торговое дело (Маркетинг)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.08 Финансы и кредит (Финансы и кредит)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Экономический факультет",
+      "specialty" : "38.04.08 Финансы и кредит (Государственные и муниципальные финансы)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Юридический факультет",
+      "specialty" : "40.04.01 Юриспруденция (Юриспруденция)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "55",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "55",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "15.04.02 Технологические машины и оборудование (Компьютерный инжиниринг пищевых производств)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "19.04.02 Продукты питания из растительного сырья (Инновационные технологии создания пищевых продуктов персонализированного и специализированного назначения)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "18",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.04.04 Агрономия (Агрономия)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "16",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.04.05 Садоводство (Технологии промышленного садоводства и питомниководства)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.04.06 Агроинженерия (Технические системы в агробизнесе)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "24",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "35.04.10 Гидромелиорация (Управление мелиоративными системами)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "12",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "19.04.04 Технология продукции и организация общественного питания (Технология и организация производства продуктов здорового питания)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "24",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "12",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+    {
+      "level" : "Магистратура",
+      "faculty" : "Агротехнологический факультет",
+      "specialty" : "43.04.02 Туризм (Стратегическое управления предприятиями туристской сферы, туристическими продуктами и услугами)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 1,
+      "oBudget" : "15",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 0,
+      "zBudget" : "-",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+    {
+      "level" : "Магистратура",
+      "faculty" : "Энергодарский филиал",
+      "specialty" : "38.04.01 Экономика (Экономика предприятий и организаций)",
+
+      "kAndVi" : [17],
+      "ege" : [0],
+
+      "oForm" : 0,
+      "oBudget" : "-",
+      "oContract" : "-",
+      "oPrice" : "-",
+      "oYear" : "-",
+
+      "ozForm" : 0,
+      "ozBudget" : "-",
+      "ozContract" : "-",
+      "ozPrice" : "-",
+      "ozYear" : "-",
+
+      "zForm" : 1,
+      "zBudget" : "25",
+      "zContract" : "-",
+      "zPrice" : "-",
+      "zYear" : "-" 
+    },
+
+
+
+
+
+    {
+      "level" : "Бакалавриат/Магистратура/Специалитет/Колледж",
+      "faculty" : "Название факультета/Филиала",
+      "specialty" : "Направление подготовки",
+
+      "kAndVi" : [0, 1, 5],
+      "ege" : [0, 1, 5],
+
+      "oForm" : 1,
+      "oBudget" : "Количество бюджетных мест",
+      "oContract" : "Количество контрактных мест",
+      "oPrice" : "Стоимость обучения контракт",
+      "oYear" : "Срок обучения очная",
+
+      "ozForm" : 1,
+      "ozBudget" : "Количество бюджетных мест",
+      "ozContract" : "Количество контрактных мест",
+      "ozPrice" : "Стоимость обучения контракт",
+      "ozYear" : "Срок обучения очно-заочная",
+      
+      "zForm" : 1,
+      "zBudget" : "Количество бюджетных мест",
+      "zContract" : "Количество контрактных мест",
+      "zPrice" : "Стоимость обучения контракт",
+      "zYear" : "Срок обучения заочная"
+      
+    },
+
+
+    {
+      "level" : "Бакалавриат/Магистратура/Специалитет/Колледж",
+      "faculty" : "Название факультета/Филиала",
+      "specialty" : "Направление подготовки",
+
+      "kAndVi" : [0, 1, 5],
+      "ege" : [0, 1, 5],
+
+      "oForm" : 1,
+      "oBudget" : "Количество бюджетных мест",
+      "oContract" : "Количество контрактных мест",
+      "oPrice" : "Стоимость обучения контракт",
+      "oYear" : "Срок обучения очная",
+
+      "ozForm" : 1,
+      "ozBudget" : "Количество бюджетных мест",
+      "ozContract" : "Количество контрактных мест",
+      "ozPrice" : "Стоимость обучения контракт",
+      "ozYear" : "Срок обучения очно-заочная",
+      
+      "zForm" : 1,
+      "zBudget" : "Количество бюджетных мест",
+      "zContract" : "Количество контрактных мест",
+      "zPrice" : "Стоимость обучения контракт",
+      "zYear" : "Срок обучения заочная"
+      
+    },
+
+
+
 
 
 
