@@ -14,19 +14,27 @@
       "oContract" : "11",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "2",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "19",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "3",
+      "ozOP" : "3",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
-      
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -41,18 +49,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
       "ozContract" : "7",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "2",
+      "ozOP" : "2",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"  
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -67,18 +84,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "12",
       "ozContract" : "7",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "2",
+      "ozOP" : "2",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -93,18 +119,27 @@
       "oContract" : "2",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -119,18 +154,27 @@
       "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -145,18 +189,27 @@
       "oContract" : "19",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "6",
+      "oOP" : "6",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "10",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "3",
+      "ozOP" : "3",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -171,18 +224,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "-",
       "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-",
     },
     {
       "level" : "Бакалавриат",
@@ -197,18 +259,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "7",
+      "oOP" : "7",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "40",
       "ozContract" : "37",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "4",
+      "ozOP" : "4",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -223,18 +294,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -249,18 +329,27 @@
       "oContract" : "14",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -275,18 +364,27 @@
       "oContract" : "1",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Специалитет",
@@ -301,18 +399,27 @@
       "oContract" : "16",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "25",
       "zContract" : "5",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "3",
+      "zOP" : "3",
+      "zCP" : "-"
     },
 
 
@@ -330,18 +437,27 @@
       "oContract" : "19",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "7",
+      "oOP" : "7",
+      "oCP" : "1",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "30",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "5",
+      "ozOP" : "5",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -356,18 +472,27 @@
       "oContract" : "40",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "7",
+      "oOP" : "7",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "50",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "5",
+      "ozOP" : "5",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -382,23 +507,32 @@
       "oContract" : "50",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "7",
+      "oOP" : "7",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "50",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "5",
+      "ozOP" : "5",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Специалитет",
       "faculty" : "Юридический факультет",
-      "specialty" : "40.05.01 Правовое обеспечение национальной безопасности (Гражданско-правовая специализация)",
+      "specialty" : "4 Правовое обеспечение национальной безопасности (Гражданско-правовая специализация)",
 
       "kAndVi" : [14, 1, 6, 15, 4, 5, 8],
       "ege" : [14, 1, 6, 15, 4, 5, 8],
@@ -408,18 +542,27 @@
       "oContract" : "21",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Специалитет",
@@ -434,18 +577,27 @@
       "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Специалитет",
@@ -460,18 +612,27 @@
       "oContract" : "65",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "40",
       "zContract" : "35",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "4",
+      "zOP" : "4",
+      "zCP" : "-"
     },
 
 
@@ -489,18 +650,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -515,18 +685,27 @@
       "oContract" : "80",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "8",
+      "oOP" : "8",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "50",
       "ozContract" : "50",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "5",
+      "ozOP" : "5",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -541,18 +720,27 @@
       "oContract" : "36",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "30",
       "zContract" : "30",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "3",
+      "zOP" : "3",
+      "zCP" : "-"
     },
 
 
@@ -570,18 +758,29 @@
       "oContract" : "100",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "10",
+      "oOP" : "10",
+      "oCP" : "-",
+
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
+
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -596,18 +795,27 @@
       "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -622,18 +830,27 @@
       "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -648,18 +865,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Специалитет",
@@ -674,18 +900,27 @@
       "oContract" : "36",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -700,18 +935,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -726,18 +970,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -752,18 +1005,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -778,18 +1040,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -804,18 +1075,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -830,18 +1110,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -856,18 +1145,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -882,18 +1180,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "4",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
 
 
@@ -911,18 +1218,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -937,18 +1253,27 @@
       "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -963,18 +1288,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"  
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"  
     },
     {
       "level" : "Бакалавриат",
@@ -989,18 +1323,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1015,18 +1358,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1041,18 +1393,27 @@
       "oContract" : "30",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "20",
       "zContract" : "30",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "2",
+      "zOP" : "2",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1067,18 +1428,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1093,18 +1463,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1119,18 +1498,27 @@
       "oContract" : "30",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "15",
       "zContract" : "30",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "2",
+      "zOP" : "2",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1145,18 +1533,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
 
 
@@ -1174,18 +1571,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1200,18 +1606,27 @@
       "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1226,18 +1641,27 @@
       "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1252,18 +1676,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "15",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1278,18 +1711,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1304,18 +1746,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-"
     },
 
 
@@ -1333,18 +1784,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "6",
+      "oOP" : "6",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "5",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "5",
+      "ozOP" : "5",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1359,18 +1819,27 @@
       "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1385,18 +1854,27 @@
       "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "25",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "3",
+      "zOP" : "3",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1411,18 +1889,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1437,18 +1924,27 @@
       "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1463,18 +1959,27 @@
       "oContract" : "1",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1489,18 +1994,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1515,18 +2029,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1541,18 +2064,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1567,18 +2099,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Специалитет",
@@ -1593,18 +2134,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Специалитет",
@@ -1619,18 +2169,27 @@
       "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -1648,18 +2207,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "2",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1674,18 +2242,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "2",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1700,18 +2277,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "1",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1726,18 +2312,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "25",
       "zContract" : "20",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "3",
+      "zOP" : "3",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1752,18 +2347,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1778,18 +2382,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1804,18 +2417,27 @@
       "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1830,18 +2452,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "20",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "2",
+      "zOP" : "2",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1856,18 +2487,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1882,18 +2522,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "5",
       "zContract" : "5",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "1",
+      "zOP" : "1о",
+      "zCP" : "-" 
     },
 
 
@@ -1911,18 +2560,30 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
+
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
+
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
+ 
     },
     {
       "level" : "Бакалавриат",
@@ -1937,18 +2598,27 @@
       "oContract" : "35",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "8",
+      "oOP" : "8",
+      "oCP" : "2",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "30",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "3",
+      "zOP" : "3",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -1963,18 +2633,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -1989,18 +2668,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "18",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "2",
+      "zOP" : "2",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2015,18 +2703,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2041,18 +2738,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2067,18 +2773,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "2",
+      "ozOP" : "2",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "15",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2093,18 +2808,27 @@
       "oContract" : "26",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2119,18 +2843,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2145,18 +2878,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2171,18 +2913,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "4",
+      "oOP" : "4",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2197,18 +2948,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2223,18 +2983,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2249,18 +3018,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -2278,18 +3056,29 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "0",
+
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
+
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2304,18 +3093,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2330,18 +3128,29 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
+
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
+
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "5",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "2",
+      "zOP" : "2",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2356,18 +3165,29 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
+
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
+
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2382,18 +3202,28 @@
       "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
+
 
       "ozForm" : 1,
       "ozBudget" : "18",
       "ozContract" : "25",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "2",
+      "ozOP" : "2",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2408,18 +3238,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2434,18 +3273,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2460,18 +3308,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "-",
       "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2486,18 +3343,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2512,18 +3378,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2538,18 +3413,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2564,18 +3448,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-"
     },
 
 
@@ -2593,18 +3486,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "2",
+      "oOP" : "2",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
       "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "2",
+      "ozOP" : "2",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2619,18 +3521,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "25",
       "zContract" : "35",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "3",
+      "zOP" : "3",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2644,18 +3555,27 @@
       "oContract" : "2",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "30",
       "ozContract" : "6",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "3",
+      "ozOP" : "3",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Бакалавриат",
@@ -2670,18 +3590,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "25",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "3",
+      "ozOP" : "3",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2696,18 +3625,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
     {
       "level" : "Бакалавриат",
@@ -2722,18 +3660,27 @@
       "oContract" : "16",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "3",
+      "oOP" : "3",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
       "ozContract" : "15",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "2",
+      "ozOP" : "2",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -2816,18 +3763,27 @@
       "oContract" : "70",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-"
     },
 
 
@@ -2845,18 +3801,27 @@
       "oContract" : "24",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -2871,18 +3836,27 @@
       "oContract" : "18",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "12",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -2897,18 +3871,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -2923,18 +3906,27 @@
       "oContract" : "12",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -2952,18 +3944,27 @@
       "oContract" : "50",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "30",
       "zContract" : "30",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -2978,18 +3979,27 @@
       "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "20",
       "zContract" : "20",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -3012,18 +4022,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "15",
       "ozContract" : "5",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3038,18 +4057,27 @@
       "oContract" : "3",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3064,18 +4092,27 @@
       "oContract" : "2",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "18",
       "zContract" : "3",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3090,18 +4127,27 @@
       "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3116,18 +4162,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3142,18 +4197,27 @@
       "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3168,18 +4232,27 @@
       "oContract" : "4",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3194,18 +4267,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "15",
       "zContract" : "5",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3220,18 +4302,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3246,18 +4337,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3272,18 +4372,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -3301,18 +4410,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "14",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3327,18 +4445,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "15",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3353,18 +4480,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3379,18 +4515,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3405,18 +4550,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3431,18 +4585,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "13",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -3460,18 +4623,27 @@
       "oContract" : "16",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3486,18 +4658,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3512,18 +4693,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3538,18 +4728,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3564,18 +4763,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3590,18 +4798,27 @@
       "oContract" : "13",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3616,18 +4833,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3642,18 +4868,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3668,18 +4903,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "15",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -3697,18 +4941,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3723,18 +4976,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3749,18 +5011,27 @@
       "oContract" : "20",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "30",
       "ozContract" : "40",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3775,18 +5046,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3801,18 +5081,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3827,18 +5116,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -3856,18 +5154,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "15",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3882,18 +5189,27 @@
       "oContract" : "14",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "1",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "20",
       "zContract" : "26",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3908,18 +5224,27 @@
       "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "25",
       "zContract" : "25",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3934,18 +5259,27 @@
       "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "40",
       "zContract" : "25",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -3961,18 +5295,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "15",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -3987,18 +5330,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "1" 
     },
     {
       "level" : "Магистратура",
@@ -4013,18 +5365,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -4042,18 +5403,27 @@
       "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "55",
       "zContract" : "50",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -4071,18 +5441,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4097,18 +5476,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4123,18 +5511,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4149,18 +5546,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4175,18 +5581,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4201,18 +5616,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4227,18 +5651,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "12",
       "zContract" : "10",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
     {
       "level" : "Магистратура",
@@ -4253,18 +5686,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -4282,18 +5724,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "-",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 1,
       "zBudget" : "25",
       "zContract" : "5",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -4376,18 +5827,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-" 
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4403,18 +5863,28 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
+
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4430,18 +5900,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4457,18 +5936,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4484,18 +5972,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4511,18 +6008,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4538,18 +6044,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4565,18 +6080,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4592,18 +6116,27 @@
       "oContract" : "25",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4619,18 +6152,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4646,18 +6188,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "1 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4673,18 +6224,27 @@
       "oContract" : "-",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4700,18 +6260,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4727,18 +6296,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4754,18 +6332,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4781,18 +6368,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4808,18 +6404,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4835,18 +6440,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4862,18 +6476,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4889,18 +6512,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4916,18 +6548,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4943,18 +6584,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4970,18 +6620,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "3 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -4997,18 +6656,27 @@
       "oContract" : "10",
       "oPrice" : "-",
       "oYear" : "2 года 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -5024,18 +6692,27 @@
       "oContract" : "5",
       "oPrice" : "-",
       "oYear" : "1 год 10 месяцев",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
     {
@@ -5051,18 +6728,27 @@
       "oContract" : "15",
       "oPrice" : "-",
       "oYear" : "?",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 0,
       "ozBudget" : "-",
       "ozContract" : "-",
       "ozPrice" : "-",
       "ozYear" : "-",
+      "ozOK" : "-",
+      "ozOP" : "-",
+      "ozCP" : "-",
 
       "zForm" : 0,
       "zBudget" : "-",
       "zContract" : "-",
       "zPrice" : "-",
-      "zYear" : "-"
+      "zYear" : "-",
+      "zOK" : "-",
+      "zOP" : "-",
+      "zCP" : "-" 
     },
 
 
@@ -5082,6 +6768,9 @@
       "oContract" : "Количество контрактных мест",
       "oPrice" : "Стоимость обучения контракт",
       "oYear" : "Срок обучения очная",
+      "oOK" : "-",
+      "oOP" : "-",
+      "oCP" : "-",
 
       "ozForm" : 1,
       "ozBudget" : "Количество бюджетных мест",
