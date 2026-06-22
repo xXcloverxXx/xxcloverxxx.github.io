@@ -144,6 +144,9 @@ async function getSpecialties() {
                 <p>Количество контрактных мест:  <span class="bold">${item.oContract}</span></p>
                 <p>Стоимость обучения за один учебный год:  <span class="bold">${item.oPrice}₽</span></p>
                 <p>Срок обучения:  <span class="bold">${item.oYear}</span></p>
+                <p>Отдельная квота:  <span class="bold">${item.oOK}</span></p>
+                <p>Квота приема лиц, имеющих особое право:  <span class="bold">${item.oOP}</span></p>
+                <p>Целевой прием:  <span class="bold">${item.oCP}</span></p>
               </div>
         `;
     } else {
@@ -166,6 +169,9 @@ async function getSpecialties() {
                 <p>Количество контрактных мест:  <span class="bold">${item.ozContract}</span></p>
                 <p>Стоимость обучения за один учебный год:  <span class="bold">${item.ozPrice}₽</span></p>
                 <p>Срок обучения:  <span class="bold">${item.ozYear}</span></p>
+                <p>Отдельная квота:  <span class="bold">${item.ozOK}</span></p>
+                <p>Квота приема лиц, имеющих особое право:  <span class="bold">${item.ozOP}</span></p>
+                <p>Целевой прием:  <span class="bold">${item.ozCP}</span></p>
               </div>
         `;
     } else {
@@ -188,6 +194,9 @@ async function getSpecialties() {
                 <p>Количество контрактных мест:  <span class="bold">${item.zContract}</span></p>
                 <p>Стоимость обучения за один учебный год:  <span class="bold">${item.zPrice}₽</span></p>
                 <p>Срок обучения:  <span class="bold">${item.zYear}</span></p>
+                <p>Отдельная квота:  <span class="bold">${item.zOK}</span></p>
+                <p>Квота приема лиц, имеющих особое право:  <span class="bold">${item.zOP}</span></p>
+                <p>Целевой прием:  <span class="bold">${item.zCP}</span></p>
               </div>
         `;
     } else {
